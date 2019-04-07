@@ -1,0 +1,116 @@
+html {
+    font-family: 'Roboto', sans-serif !important;
+}   
+
+#form {
+    margin-top: 9rem;
+  }
+  
+  #login-button {
+    font-weight: lighter;
+    width: 8rem;
+  }
+  
+  #login-button:hover {
+    width: 9rem;
+  }
+  
+  #register-button {
+    font-weight: lighter;
+    width: 8rem;
+  }
+  
+  #register-button:hover {
+    width: 9rem;
+  }
+  
+  #input-e:focus {
+    border-bottom: 1px solid #000000;
+    box-shadow: 0 1px 0 0 #000000;
+  }
+  
+  #input-e:focus + label {
+    color: #000000;
+  }
+
+  #input-p:focus {
+    border-bottom: 1px solid #000000;
+    box-shadow: 0 1px 0 0 #000000;
+  }
+  
+  #input-p:focus + label {
+    color: #000000;
+  }
+
+  .g-signin2 {
+      margin-top: 1rem;
+      margin-left: 10rem;
+  }
+
+  #or {
+      margin-top: 4rem;
+  }
+  
+  #sidenav-1 {
+      /* font-size: 3px; */
+      width: 16rem;
+    -webkit-box-shadow: none;
+	-moz-box-shadow: none;
+    box-shadow: none;
+    border-right: 1px black solid;
+}
+
+.todo {
+    color: black;
+}
+
+#header-a {
+    /* font-size: 1rem; */
+    color: black;
+    font-weight: bolder;
+}
+
+#shopnow-text {
+    color: black;
+    
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+}
+
+#shopnow-text:hover {
+    color: white;
+}
+
+
+#shopnow-button {
+    border: black solid 1px;
+    width: 20rem;
+    /* margin-top: 5rem; */
+    margin-bottom: 10rem;
+    margin-left: 30rem;
+
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+}
+
+#shopnow-button:hover {
+    background-color: black;
+}
+
+  
+
+  span {
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+  }
+  
+  span:hover {
+    color: grey;
+  }
+
