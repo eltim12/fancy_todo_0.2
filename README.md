@@ -26,7 +26,9 @@
 
 ## Usage
 
-Make sure you have Node.js and npm installed in your computer, and then run this commands in both client and server folders:
+Make sure you have Node.js and npm installed in your computer.
+
+in server Folder:
 
 ```
 $npm install
@@ -34,6 +36,12 @@ $npm install
 
 ```
 $npm run dev
+```
+
+in client Folder:
+
+```
+$live-server --host=localhost
 ```
 
 Access server side via http://localhost:3000/
